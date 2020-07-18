@@ -1,4 +1,4 @@
-# wi-fi_weather_station
+# Wi-fi_weather_station
 The weather station is based on the NodeMCU ESP8266 board
 <p align="center">
   <img src="https://github.com/AndrewLaptev/wi-fi_weather_station/blob/master/docs/nodemcuv3_pinout.png"/>
