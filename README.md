@@ -1,4 +1,7 @@
 # Wi-fi_weather_station
+This project is based on code from ["ESP8266 weather station using Arduino IDE"](https://circuits4you.com/2019/03/22/esp8266-weather-station-arduino/) tutorial
+but another sensors and with significant revisions in backend.
+
 The weather station is based on the NodeMCU ESP8266 board
 <p align="center">
   <img src="https://github.com/AndrewLaptev/wi-fi_weather_station/blob/master/docs/nodemcuv3_pinout.png"/>
